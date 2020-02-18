@@ -1,0 +1,2 @@
+# LogService
+Logger and authentication 
